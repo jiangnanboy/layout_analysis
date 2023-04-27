@@ -28,11 +28,19 @@ def train_model():
     model.train(data="img-layout.yaml", epochs=300, device=1)# , lr0=0.0001)  # 训练模型
     metrics = model.val()  # 在验证集上评估模型性能
 ```
-
+8npt
 <br/>
 <p align="center">
   <a>
     <img src="8npt/results.png">
+  </a>
+</p>
+<br/>
+
+8mpt
+<br/>
+<p align="center">
+  <a>
     <img src="8mpt/results.png">
   </a>
 </p>
