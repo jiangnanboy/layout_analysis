@@ -1,0 +1,7 @@
+train: /home/sy/img_layout/images/train  # 训练集
+val: /home/sy/img_layout/images/val  # 验证集
+test:                # 验证集
+
+nc: 10  # 数据集类别数量
+names: ['Header', 'Text', 'Reference', 'Figure caption', 'Figure', 'Table caption', 'Table', 'Title', 'Footer', 'Equation']
+

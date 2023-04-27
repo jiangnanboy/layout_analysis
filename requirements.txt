@@ -1,0 +1,10 @@
+opencv-contrib-python=4.7.0.68
+opencv-python=4.6.0.66
+opencv-python-headless=4.7.0.68
+
+ultralytics=8.0.51
+Python>=3.7
+PyTorch>=1.7.
+
+
+
