@@ -33,7 +33,7 @@ def train_model():
 <p align="center">
   <a>
     <img src="8npt/results.png">
-    <img src="8mpt/result.png">
+    <img src="8mpt/results.png">
   </a>
 </p>
 <br/>
