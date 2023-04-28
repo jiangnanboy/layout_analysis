@@ -1,4 +1,5 @@
 ### 利用yolov8对中文文档图片进行版面检测
+yolov8 is used to detect the layout of Chinese document images
 
 #### 模型下载、训练及推理
 本项目根据开源中文版面数据[CDLA](https://github.com/buptlihang/CDLA)  ，利用yolov8训练两个模型8mpt与8npt，
