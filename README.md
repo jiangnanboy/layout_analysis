@@ -56,6 +56,15 @@ def infer():
     cv2.imwrite('result.png', results[0].plot())
 ```
 
+<br/>
+<p align="center">
+  <a>
+    <img src="result/test2_result.png">
+  </a>
+</p>
+<br/>
+
+
 #### contact
 
 1、github：https://github.com/jiangnanboy
